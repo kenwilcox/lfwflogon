@@ -2,6 +2,7 @@
 Simple Laserfiche logon check
 
 ## Usage
+```
 check_lflogon
 
 Usage:
@@ -15,6 +16,7 @@ Options:
   -r --repo=<repo>      Repo Under Test
   -h --help             Lol
   --version
+```
 
 ## Reasoning
 We needed a simple way to check if we could log into Laserfiche via a nagios or shinken script
