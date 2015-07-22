@@ -21,4 +21,5 @@ Options:
 ## Reasoning
 We needed a simple way to check if we could log into Laserfiche via a nagios or shinken script
 
-## You will need to have access to the Laserfiche SDK (specifically the JRA-{version}.jar) in order to build
+### Note
+You will need to have access to the Laserfiche SDK (specifically the JRA-{version}.jar) in order to build
