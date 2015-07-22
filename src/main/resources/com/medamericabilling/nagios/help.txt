@@ -1,0 +1,13 @@
+check_lflogon
+
+Usage:
+  check_lflogon -s=<server> -u=<username> -p=<password> -r=<repo>
+  check_lflogon (-h | --help)
+
+Options:
+  -s --server=<server>  SQL Server Name
+  -u --user=<username>  User Name
+  -p --password=<password>  Password
+  -r --repo=<repo>      Repo Under Test
+  -h --help             Lol
+  --version
